@@ -32,6 +32,3 @@ Once activated, the "Registration Date" and "Last Login Date" columns will appea
 
 [Virtual Market Advantage](https://virtualmarketadvantage.com/)
 
----
-
-Feel free to customize this description further to fit your preferences.
